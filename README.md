@@ -3,7 +3,7 @@
 
 <b>Auteurs :</b> MiaouLelion & nael93260 (<a href="https://github.com/nael93260">Github</a>) @Paris Dauphine
 
-Le programme "ClusterProg" permet de créer une union de cliques à partir d'un Graph quelconque.
+Il s'agit d'un exercice dont le but est d'apprendre à gérer un graph sans utilisation de Networkx, puis de transformer ce graph en une union de cliques. Le programme "ClusterProg" permet de créer une union de cliques à partir d'un Graph quelconque.
 
 L'exécution du programme se fait grâce à la commande suivante :
 <i>cat file.gr | python ClusterProg.py > Solution.txt</i>
